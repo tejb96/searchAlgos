@@ -1,0 +1,7 @@
+1. The QuestionOne class implements a linear search algorithm and the InterpolationSearch class implements interpolation search.
+
+2. As shown in the included screenshots, the run time for the linear algorithm was 4900 ns, and 531,800 ns for interpolation. 
+Linear search performed better because there are only 10 numbers in the array. 
+Interpolation would perform better than linear, as the numbers in the array increase.
+
+3. The runtime of the linear search was decreased by 22% by using a recursive approach. 
